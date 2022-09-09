@@ -52,5 +52,7 @@ digitalWrite(D4,d);
 
 
 # DESIGN
-![Uploading image.png…]()
+![WhatsApp Image 2022-09-09 at 7 42 15 PM](https://user-images.githubusercontent.com/91971716/189370522-9f68ecaf-5676-4d1e-8ea0-7037a7e105ff.jpeg)
+
+
 
